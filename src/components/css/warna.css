@@ -1,19 +1,19 @@
-.bg-biru{
-    background-color: #293140;
+.bg-warna-satu{
+    background-color:#0d0d0d;
 }
 
-.bg-merah{
-    background-color: #F45050;
+.bg-warna-dua{
+    background-color: #333333;
 }
 
-.bg-biru-laut{
-    background-color: #191E2D;
+.bg-warna-tiga{
+    background-color: #F31559;
 }
 
 .text-putih{
-    color: #ffffff;
+    color: #EEEEEE;
 }
 
-.text-merah{
-    color: #F45050;
+.text-warna-tiga{
+    color: #F31559;
 }
