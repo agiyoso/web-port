@@ -13,9 +13,10 @@ export default function projectpage() {
                 </div>
             </div>
             <div className="col h-100">
-                <p className='text-putih fw-medium fs-5 text-start mx-5'>Project 1</p>
-                <p className='text-putih text-start mx-5'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, iure!</p>
-                <button className='bg-warna-tiga shadow-none border-none rounded text-putih d-flex align-items-center justify-content-center mx-5 py-2' style={{height:"1.5em", width:"6em"}}>Link</button>
+                <p className='text-putih fw-medium fs-5 text-start mx-5'>Project Millenials.Sply</p>
+                <p className='text-putih text-start mx-5'>This website was designed to transform a conventional store into an online store. In this project, we developed an
+                inventory and sales information system for the Millenials.Sply store, enabling the processing of sales and inventory data to be conducted directly online.</p>
+                <button className='bg-warna-tiga shadow-none border-none rounded text-putih d-flex align-items-center justify-content-center mx-5 py-2' style={{height:"1.5em", width:"6em"}}><a href='https://github.com/agiyoso/millenials_project' className='text-decoration-none text-putih'>Link</a></button>
                 {/* <p><a href="#" className='text-warna-tiga link-underline-light'>link</a></p> */}
             </div>
         </div> 

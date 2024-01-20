@@ -6,7 +6,7 @@ export default function navbar() {
     <div className='bg-warna-satu' style={{height:"60px"}}>
         <div className="row d-flex align-items-center container-sm h-100">
             <div className="col h-100">
-                <p className='text-putih d-flex align-items-center justify-content-center h-100' >AKHMAD AGIYOSO</p>
+                <p className='text-putih d-flex align-items-center justify-content-center h-100' >MY PORTFOLIO</p>
             </div>
             <div className="col h-100">
                 <div className="row d-flex align-items-center h-100">
