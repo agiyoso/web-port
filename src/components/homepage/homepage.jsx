@@ -11,7 +11,7 @@ export default function homepage() {
             </div>
             <div className="col h-100 d-flex align-items-center justify-content-left">
               <div>
-              <p className='text-putih fw-bold fs-2 d-flex align-items-start'>HI! I'm Akhmad <span className='text-warna-tiga'>Agiyoso</span></p>
+              <p className='text-putih fw-bold fs-2 d-flex align-items-start'>HI! I'm Akhmad Agiyoso</p>
               <p className='text-putih d-flex align-items-start text-start'>
                               Welcome to the web development section of my portfolio! I am a web developer with a passion for creating innovative and functional digital solutions. I have been involved in various successful web development projects.</p>
               <p className='text-putih d-flex align-items-start'>read more</p>
